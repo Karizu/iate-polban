@@ -1,0 +1,264 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/close_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/icon_close_item"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="15dp"
+                android:text="Kebijakan Privasi"
+                android:textAlignment="center"
+                android:textColor="#000"
+                android:textStyle="bold"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Kebijakan Privasi"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Terima kasih telah menggunakan aplikasi SUPERFRIENDS. Kami selalu berusaha untuk melakukan yang terbaik, antara lain berupaya menumbuhkan dan menjaga kepercayaan Anda selaku pengguna aplikasi kami dengan melindungi informasi pribadi milik Anda yang bersifat pribadi dan rahasia. Dengan mengunjungi dan mendaftarkan diri Anda sebagai member pada SUPERFRIENDS, maka Anda setuju untuk terikat kepada syarat-syarat dan ketentua. Kami mungkin mengubah syarat-syarat dan kondisi ini sewaktu-waktu, dan oleh karenanya Anda diharapkan untuk melakukan pengecekan secara berkala"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Memberikan Data/Informasi Yang Dibutuhkan"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Kami bisa saja menanyakan data pribadi Anda. Kami akan memerlukan data-data pribadi dari Anda antara lain sebagai berikut: Nama Lengkap; Tanggal Lahir; Jenis Kelamin; Nomor KTP; Alamat Tempat Tinggal; Pekerjaan; Alamat Email; Nomor Telepon. Semua informasi yang diberikan oleh Anda akan kami simpan sebaik-baiknya dengan memperhatikan faktor keamanan dan akses terhadap data tersebut hanya diperbolehkan pada staf kami yang memiliki otorisasi saat mereka membutuhkan untuk alasan operasional."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Tujuan Pengumpulan Data"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Informasi dan data-data pribadi yang diperoleh oleh kami hanya akan digunakan antara lain untuk:"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="1.	Memproses aplikasi dan/atau segala bentuk pendaftaran dan/atau komunikasi yang diajukan oleh Anda;"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="2.	Melakukan komunikasi dengan dan/atau memberikan tanggapan kepada Anda yang ingin mendapatkan keterangan dan/atau informasi lebih lanjut mengenai SUPERFRIENDS;"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="3.	Memberikan informasi kepada Anda dalam hal terdapat suatu penawaran dan/atau promosi atas barang dan/atau jasa yang mungkin disediakan oleh situs SUPERFRIENDS ataupun pihak pengiklan lainnya yang turut menggunakan layanan situs SUPERFRIENDS;"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="4.	Mengumpulkan data transaksi antara Anda dengan Kami dan ataupun Mitra usaha Kami, termasuk informasi mengenai penggunaan anda terhadap produk-produk dan layanan yang kami sediakan."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="5.	Pelaksanaan riset-riset guna pengembangan aplikasi SUPERFRIENDS, peningkatan pelayanan Kami dan/atau memenuhi permintaan Anda terhadap produk dan layanan yang disediakan oleh aplikasi SUPERFRIENDS."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Pemberian Dan Pengungkapan Informasi Kepada Pihak Lain"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Bahwa kecuali untuk kepentingan pengumpulan data sebagaimana telah diungkapkan di atas, SUPERFRIENDS tidak akan menjual, mengalihkan, mendistribusikan dan/atau membuka informasi dan data-data pribadi Anda kepada orang lain dan/atau Pihak Ketiga yang tidak berkepentingan."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Namun demikian, Kami dapat memberikan informasi sebagaimana dimaksud kepada pihak-pihak yang masih berkaitan dengan Kami dengan syarat bahwa pihak-pihak tersebut wajib mematuhi Kebijakan Privasi ini. Pihak-pihak tersebut yaitu antara lain adalah:"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="1.	Mitra usaha yang diberikan tugas oleh Kami untuk membantu dalam proses aplikasi, investigasi dan verifikasi atas data-data pribadi Anda;"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="2.	Pihak lain yang atas nama Kami diwajibkan untuk melaksanakan suatu pekerjaan yang dalam pelaksanaannya perlu mengetahui informasi yang dilindungi tersebut.
+Dalam hal diperlukan dan/atau diperintahkan oleh Pengadilan dan/atau pejabat suatu instansi pemerintah Indonesia berdasarkan wewenang sah yang diberikan oleh ketentuan perundang-undangan, maka dalam rangka memenuhi perintah tersebut Kami dapat membuka akses atas informasi yang diperlukan sebagaimana dimaksud. Sehubungan dengan hal tersebut, maka Anda setuju untuk membebaskan Kami dari segala klaim, tuntutan, dan atau gugatan yang berkaitan dengan pemberian akses atas informasi tersebut."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Modifikasi Persyaratan Dan Peraturan Dasar"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Penggunaan situs dan informasi yang disebarkan bersamaan dengan aplikasi SUPERFRIENDS ini, ditawarkan kepada Anda atas dasar kesediaan Anda untuk menerima Kebijakan Privasi kami, dan maklumat lainnya yang termuat dalam aplikasi SUPERFRIENDS ini. Dengan menggunakan aplikasi atau semua konten yang berada di dalam aplikasi SUPERFRIENDS ini, berarti Anda mengetahui dan menyetujui Kebijakan Privasi kami, dan maklumat lainnya yang termuat dalam SUPERFRIENDS ini. Jika Anda tidak sepakat untuk terikat dan mematuhi ketentuan tersebut, Anda tidak diperbolehkan untuk mengakses atau menggunakan informasi, layanan, atau aplikasi SUPERFRIENDS kami."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Kami berhak, atas kewenangannya sendiri, untuk mengubah, menambah, atau menghilangkan syarat dan ketentuan apapun dari Kebijakan Privasi ini tanpa sepengetahuan dan persetujuan Anda. Tiap perubahan terhadap Kebijakan Privasi ini secara efektif dan langsung mengikuti pemberitahuan perubahan dalam aplikasi SUPERFRIENDS ini. Anda menyetujui untuk meninjau Kebijakan Privasi ini dari waktu ke waktu dan menyetujui bahwa setiap penggunaan aplikasi SUPERFRIENDS berikutnya sebagai akibat dari adanya perubahan terhadap Kebijakan Privasi ini menunjukkan penerimaan Anda terhadap semua perubahan tersebut."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Daftar Direktori Dan Layanan"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Aplikasi SUPERFRIENDS ini berisi direktori yang memungkinkan Anda mendapatkan sendiri dan / atau akses informasi tentang member yang lain dan / atau layanan yang mereka pergunakan."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Aplikasi SUPERFRIENDS mungkin menyediakan links dan detail kontak yang terdapat dalam aplikasi SUPERFRIENDS, dimana links dan detail kontak tersebut dimaksudkan untuk referensi dan kenyamanan saja."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Hukum"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Syarat-syarat dan ketentuan dalam Kebijakan Privasi ini tunduk kepada hukum di wilayah Negara Kesatuan Republik Indonesia."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

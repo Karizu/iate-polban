@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff">
+        <TextView
+            android:id="@+id/article_detail_text_artikel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_title"
+            android:textAlignment="center"
+            android:textColor="@color/colorTitleText"
+            android:textSize="16sp"
+            android:padding="5dp"
+            android:text="ARTIKEL"/>
+
+        <ImageView
+            android:id="@+id/img_article_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true" />
+
+        <TextView
+            android:id="@+id/article_detail_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:background="@drawable/background_article_title"
+            android:textColor="@color/colorDefaultDark"
+            android:fontFamily="@font/prompt_regular"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/creator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/article_margin_left_right"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="12sp"
+            android:text="24 Oktober 2018 - Oleh Superadmin"
+            />
+
+        <!--<TextView-->
+            <!--android:id="@+id/content"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginStart="@dimen/article_margin_left_right"-->
+            <!--android:layout_marginEnd="@dimen/article_margin_left_right"-->
+            <!--android:textColor="#ffffff"-->
+            <!--android:textSize="13sp"-->
+            <!--android:text=""-->
+            <!--/>-->
+
+        <WebView
+            android:id="@+id/article_detail_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:textColor="@color/colorPrimaryDark"/>
+
+    </LinearLayout>
+</ScrollView>

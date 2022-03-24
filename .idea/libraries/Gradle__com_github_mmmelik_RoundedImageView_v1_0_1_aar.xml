@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mmmelik:RoundedImageView:v1.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a330e47ad1df8017ac177bee941f3652/RoundedImageView-v1.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a330e47ad1df8017ac177bee941f3652/RoundedImageView-v1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a330e47ad1df8017ac177bee941f3652/RoundedImageView-v1.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mmmelik/RoundedImageView/v1.0.1/3f727a4e0102b2349e8a1d991681bd6ee1f58077/RoundedImageView-v1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

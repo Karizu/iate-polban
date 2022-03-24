@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25b6258e-4843-4fde-b695-66761e344ae6" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="IATE Center" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="IATE Center" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="IATE Center" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="G:\ProjectAndroid\IATE Center\app\build\key_iate.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hd7pzRTgrMWr9YvoAAee7IYhiu" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="app" />
+    <property name="BundleExportedModule" value="app" />
+    <property name="ExportApk.ApkPath" value="G:\ProjectAndroid\IATE Center\app" />
+    <property name="ExportApk.BuildVariants" value="debug" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.profiler.active" value="true" />
+    <property name="android.sdk.path" value="G:/Android/sdk" />
+    <property name="device.picker.selection" value="192.168.1.5:5555" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.2.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1565152295713" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1633642376">
+      <recent name="id.bl.blcom.iate.presentation.direktori" />
+    </key>
+    <key name="android.template.-899688690">
+      <recent name="id.bl.blcom.iate.presentation" />
+    </key>
+    <key name="android.template.647615119">
+      <recent name="id.bl.blcom.iate.presentation.profile" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="id.co.djarum.superfriend.presentation.diskusi" />
+      <recent name="id.co.djarum.superfriend.presentation.forgot" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="id.co.djarum.superfriend.models.response" />
+      <recent name="id.co.djarum.superfriend" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rizki Dharmawan\Documents\Project Android\IATE Center\app\src\main\res\drawable" />
+      <recent name="C:\Users\Rizki Dharmawan\Documents\Project Android\IATE Center\app\src\main\java\id\bl\blcom\iate\api" />
+      <recent name="C:\Users\Rizki Dharmawan\Documents\Project Android\IATE Center\app\src\main\assets" />
+      <recent name="C:\Users\Rizki Dharmawan\Documents\Project Android\IATE Center\app\src\main\java\id\bl\blcom\iate\models\response" />
+      <recent name="C:\Users\Rizki Dharmawan\Documents\Project Android\IATE Center\app" />
+    </key>
+    <key name="android.template.1158907826">
+      <recent name="id.bl.blcom.iate" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="id.bl.blcom.iate.api" />
+    </key>
+    <key name="android.template.-1413900569">
+      <recent name="id.bl.blcom.iate.presentation.notifikasi" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="id.bl.blcom.iate.presentation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IATE Center [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.IATE Center [signingReport]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25b6258e-4843-4fde-b695-66761e344ae6" name="Default" comment="" />
+      <created>1540345180395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540345180395</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update UI list direktori anggota">
+      <created>1540576201321</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540576201322</updated>
+    </task>
+    <task id="LOCAL-00008" summary="parse date time into view">
+      <created>1540577216792</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540577216792</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fetch user profile picture, fullname and DSO from current user into side menu">
+      <created>1540578337911</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540578337911</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix UI searchView on direktori member">
+      <created>1540612313866</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540612313866</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Beautification background color &amp; imp Notification screen">
+      <created>1540626899601</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540626899601</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update resource values">
+      <created>1540631516488</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1540631516488</updated>
+    </task>
+    <task id="LOCAL-00013" summary="implement notification page">
+      <created>1540631582494</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540631582494</updated>
+    </task>
+    <task id="LOCAL-00014" summary="hotfix my profile &amp; implement detail member page">
+      <created>1540793112671</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1540793112671</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Implement settings privacy notification">
+      <created>1540793596505</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1540793596505</updated>
+    </task>
+    <task id="LOCAL-00016" summary="implement hadir/batal hadir &amp; reminder, fixing API endpoint">
+      <created>1540797519097</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1540797519097</updated>
+    </task>
+    <task id="LOCAL-00017" summary="implement privacy config on member profile">
+      <created>1540798540551</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1540798540551</updated>
+    </task>
+    <task id="LOCAL-00018" summary="bugs fixing home &amp; direktori member">
+      <created>1540886602712</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1540886602712</updated>
+    </task>
+    <task id="LOCAL-00019" summary="bugs fixing slider click detail">
+      <created>1540888695170</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1540888695170</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fix color UI header menu &amp; popup event">
+      <created>1540905337017</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1540905337018</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fix popup event func Home">
+      <created>1540917571485</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1540917571485</updated>
+    </task>
+    <task id="LOCAL-00022" summary="bugs fix function accept/reject invitation">
+      <created>1540919909994</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1540919909994</updated>
+    </task>
+    <task id="LOCAL-00023" summary="bugs fixing register toast force close &amp; settings force close">
+      <created>1540955058458</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1540955058458</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fixing banner null &amp; add filter event on calendar">
+      <created>1540960465508</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1540960465508</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add gallery view &amp; image view, bugs fixing event, remove RSO on member &amp; register dropdown, remove event detail on list">
+      <created>1541131661155</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1541131661156</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fixing bugs index menuItem">
+      <created>1541142548327</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1541142548327</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add grant permission check on login page">
+      <created>1541143569953</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1541143569954</updated>
+    </task>
+    <task id="LOCAL-00028" summary="implement badge and put is read notification">
+      <created>1541153980814</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1541153980815</updated>
+    </task>
+    <task id="LOCAL-00029" summary="implement video player &amp; update CSS detail webview">
+      <created>1541175058896</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1541175058897</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add play video assets">
+      <created>1541175079572</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1541175079572</updated>
+    </task>
+    <task id="LOCAL-00031" summary="update API helper for change password &amp; parse profile to edit profile form">
+      <created>1541213167801</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1541213167801</updated>
+    </task>
+    <task id="LOCAL-00032" summary="parse interest &amp; hobby on profile, add interest API call">
+      <created>1541215677217</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1541215677217</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update layout profile">
+      <created>1541215698181</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1541215698181</updated>
+    </task>
+    <task id="LOCAL-00034" summary="implement update profile">
+      <created>1541264107388</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1541264107388</updated>
+    </task>
+    <task id="LOCAL-00035" summary="implement list forum">
+      <created>1541514931506</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1541514931507</updated>
+    </task>
+    <task id="LOCAL-00036" summary="implement vote action &amp; vote view in discussion list">
+      <created>1541519680039</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1541519680040</updated>
+    </task>
+    <task id="LOCAL-00037" summary="create page add post">
+      <created>1541556827733</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1541556827733</updated>
+    </task>
+    <task id="LOCAL-00038" summary="bugs fixing. implement create post">
+      <created>1541990398478</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1541990398478</updated>
+    </task>
+    <task id="LOCAL-00039" summary="implement report func, impelent loading dialog">
+      <created>1542013351110</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1542013351110</updated>
+    </task>
+    <task id="LOCAL-00040" summary="show button remove for his post">
+      <created>1542015273800</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1542015273800</updated>
+    </task>
+    <task id="LOCAL-00041" summary="implement func delete post &amp; add loading dialog on register">
+      <created>1542082617289</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1542082617289</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add try / catch for every request and parse data; implement loading">
+      <created>1542097227323</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1542097227323</updated>
+    </task>
+    <task id="LOCAL-00043" summary="add image placeholder">
+      <created>1542098559501</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1542098559501</updated>
+    </task>
+    <task id="LOCAL-00044" summary="implement image download">
+      <created>1542101396481</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1542101396481</updated>
+    </task>
+    <task id="LOCAL-00045" summary="implement onclick notif forum redirect to detail post">
+      <created>1542102051360</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1542102051360</updated>
+    </task>
+    <task id="LOCAL-00046" summary="add loading for initial view">
+      <created>1542103781362</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1542103781362</updated>
+    </task>
+    <task id="LOCAL-00047" summary="implement share function on article detail">
+      <created>1542123378066</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1542123378067</updated>
+    </task>
+    <task id="LOCAL-00048" summary="bugs fix icon share not GONE">
+      <created>1542123701040</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1542123701040</updated>
+    </task>
+    <task id="LOCAL-00049" summary="implement upcoming event on list; add toast info after response invitation">
+      <created>1542166212438</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1542166212438</updated>
+    </task>
+    <task id="LOCAL-00050" summary="implement badge &amp; comment image">
+      <created>1542266691344</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1542266691348</updated>
+    </task>
+    <task id="LOCAL-00051" summary="add swipe to refresh on notification list">
+      <created>1542267680099</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1542267680099</updated>
+    </task>
+    <task id="LOCAL-00052" summary="remove all days event reminder, add caption button on popup event, change edit profile -&gt; save profile">
+      <created>1543393281581</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1543393281583</updated>
+    </task>
+    <task id="LOCAL-00053" summary="bugs fix message fail login; fixing voting order">
+      <created>1543831037268</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1543831037270</updated>
+    </task>
+    <task id="LOCAL-00054" summary="fix share icon">
+      <created>1544083451241</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1544083451242</updated>
+    </task>
+    <task id="LOCAL-00055" summary="add full address, emoji, etc.">
+      <created>1648091996185</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1648091996185</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update API helper for change password &amp; parse profile to edit profile form" />
+    <MESSAGE value="parse interest &amp; hobby on profile, add interest API call" />
+    <MESSAGE value="update layout profile" />
+    <MESSAGE value="implement update profile" />
+    <MESSAGE value="implement list forum" />
+    <MESSAGE value="implement vote action &amp; vote view in discussion list" />
+    <MESSAGE value="create page add post" />
+    <MESSAGE value="bugs fixing. implement create post" />
+    <MESSAGE value="implement report func, impelent loading dialog" />
+    <MESSAGE value="show button remove for his post" />
+    <MESSAGE value="implement func delete post &amp; add loading dialog on register" />
+    <MESSAGE value="add try / catch for every request and parse data; implement loading" />
+    <MESSAGE value="add image placeholder" />
+    <MESSAGE value="implement image download" />
+    <MESSAGE value="implement onclick notif forum redirect to detail post" />
+    <MESSAGE value="add loading for initial view" />
+    <MESSAGE value="implement share function on article detail" />
+    <MESSAGE value="bugs fix icon share not GONE" />
+    <MESSAGE value="implement upcoming event on list; add toast info after response invitation" />
+    <MESSAGE value="implement badge &amp; comment image" />
+    <MESSAGE value="add swipe to refresh on notification list" />
+    <MESSAGE value="remove all days event reminder, add caption button on popup event, change edit profile -&gt; save profile" />
+    <MESSAGE value="bugs fix message fail login; fixing voting order" />
+    <MESSAGE value="fix share icon" />
+    <MESSAGE value="add full address, emoji, etc." />
+    <option name="LAST_COMMIT_MESSAGE" value="add full address, emoji, etc." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="101" key="#PSD" timestamp="1648023655535">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="200" y="101" key="#PSD/0.0.1366.738@0.0.1366.738" timestamp="1648023655535" />
+    <state x="800" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1648031886714">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="800" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1648031886714" />
+    <state x="800" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1646979488805" />
+    <state x="399" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1646378144999">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="399" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1646378144999" />
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1646215673017">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1646215673017" />
+    <state x="263" y="124" key="AndroidCreateResourceFileDialog" timestamp="1648023768311">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="124" key="AndroidCreateResourceFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1648023768311" />
+    <state x="263" y="129" key="AndroidCreateResourceFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1647408747127" />
+    <state x="642" y="310" key="AndroidCreateXmlResourceDialog" timestamp="1647509007338">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="642" y="310" key="AndroidCreateXmlResourceDialog/0.0.1366.738@0.0.1366.738" timestamp="1647509007338" />
+    <state x="642" y="323" key="AndroidCreateXmlResourceDialog/0.0.1366.768@0.0.1366.768" timestamp="1647404914056" />
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1648091988432">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1648091988432" />
+    <state x="363" y="124" key="Downloadable.Font.Dialog.Size" timestamp="1645599406914">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="124" key="Downloadable.Font.Dialog.Size/0.0.1366.738@0.0.1366.738" timestamp="1645599406914" />
+    <state x="463" y="99" key="FileChooserDialogImpl" timestamp="1646726668937">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="95" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1645796458597" />
+    <state x="463" y="99" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1646726668937" />
+    <state width="1306" height="369" key="GridCell.Tab.0.bottom" timestamp="1648091527206">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="369" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1648091527206" />
+    <state width="1323" height="308" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1647420556969" />
+    <state width="1306" height="369" key="GridCell.Tab.0.center" timestamp="1648091527206">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="369" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1648091527206" />
+    <state width="1323" height="308" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1647420556969" />
+    <state width="1306" height="369" key="GridCell.Tab.0.left" timestamp="1648091527206">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="369" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1648091527206" />
+    <state width="1323" height="308" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1647420556969" />
+    <state width="1306" height="369" key="GridCell.Tab.0.right" timestamp="1648091527206">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="369" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1648091527206" />
+    <state width="1323" height="308" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1647420556969" />
+    <state width="1323" height="292" key="GridCell.Tab.1.bottom" timestamp="1647423784720">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="292" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1647423784720" />
+    <state width="1323" height="308" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1647420556969" />
+    <state width="1323" height="292" key="GridCell.Tab.1.center" timestamp="1647423784720">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="292" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1647423784720" />
+    <state width="1323" height="308" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1647420556969" />
+    <state width="1323" height="292" key="GridCell.Tab.1.left" timestamp="1647423784720">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="292" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1647423784720" />
+    <state width="1323" height="308" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1647420556969" />
+    <state width="1323" height="292" key="GridCell.Tab.1.right" timestamp="1647423784720">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="292" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1647423784720" />
+    <state width="1323" height="308" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1647420556969" />
+    <state x="263" y="112" key="IDE.errors.dialog" timestamp="1648030265589">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="112" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1648030265589" />
+    <state x="275" y="90" key="Vcs.Push.Dialog.v2" timestamp="1648092031449">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="90" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1648092031449" />
+    <state x="499" y="162" key="chooseDestDirectoryDialog" timestamp="1646215693421">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="499" y="162" key="chooseDestDirectoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1646215693421" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1648091526006">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1648091526006" />
+    <state x="379" y="201" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1647402682105" />
+    <state x="397" y="130" width="842" height="606" key="find.popup" timestamp="1648033413003">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="397" y="130" width="842" height="606" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1648033413003" />
+    <state x="397" y="135" width="842" height="631" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1647419642244" />
+    <state x="418" y="222" key="psd.add.jar.dependency.panel.dimension" timestamp="1648023421371">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="418" y="222" key="psd.add.jar.dependency.panel.dimension/0.0.1366.738@0.0.1366.738" timestamp="1648023421371" />
+    <state x="304" y="112" key="psd.add.library.dependency.panel.dimension" timestamp="1648023654383">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="304" y="112" key="psd.add.library.dependency.panel.dimension/0.0.1366.738@0.0.1366.738" timestamp="1648023654383" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1648033419627">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1648033419627" />
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1647416533558" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1648091678987">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1648091678987" />
+    <state x="346" y="61" width="672" height="706" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1647420209633" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/services/AdapterListMenuDiscussion.java</url>
+          <line>520</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/news/NewsDetailFragment.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/diskusi/DiskusiFragment.java</url>
+          <line>290</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/direktori/DirektoriFragment.java</url>
+          <line>324</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/direktori/DirektoriFragment.java</url>
+          <line>202</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/direktori/DirektoriFragment.java</url>
+          <line>198</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/calendar/EventListAdapter.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/home/HomeFragment.java</url>
+          <line>257</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/diskusi/DiskusiFragment.java</url>
+          <line>401</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/diskusi/DiskusiFragment.java</url>
+          <line>449</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/services/AdapterListSticker.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/calendar/CalendarFragment.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/services/AdapterListMenuDiscussion.java</url>
+          <line>500</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/diskusi/DetailDiskusiFragment.java</url>
+          <line>508</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/profile/EditProfileActivity.java</url>
+          <line>652</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/profile/EditProfileActivity.java</url>
+          <line>671</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/direktori/MemberDetailActivity.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/presentation/direktori/MemberDetailActivity.java</url>
+          <line>255</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/id/bl/blcom/iate/services/AdapterListMenuDirectory.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>cal.getTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mInterest.get(3)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.get(i).getParent()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.get(i).getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>message.getNotification().getBody()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dataDSO.get(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getArguments().get(&quot;privacy&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mData.getTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mData.getDate()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getArguments().get(&quot;picture&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5D8BF4</color>
+    <color name="colorPrimaryTransparent">#E3E9EC</color>
+    <color name="colorPrimaryDark">#4A60C6</color>
+    <color name="colorPrimaryDarkAccent">#657BE8</color>
+    <color name="colorAccent">#F2C442</color>
+    <color name="colorDefault">#D0B866</color>
+    <color name="colorDefaultDark">#ffffff</color>
+    <color name="colorTitleText">#ffffff</color>
+    <color name="colorNormalText">#ffffff</color>
+    <color name="colorCardViewBackground">#383838</color>
+    <color name="colorRegisterMember">#360507</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="recyclerBg">#efefef</color>
+    <color name="content_background">#f2f2f2</color>
+    <color name="selectedDate">#dfc781</color>
+    <color name="calendarMo">#d9be7b</color>
+    <color name="grey">#4d4d4d</color>
+    <color name="darkRed">#657BE8</color>
+    <color name="red">#7b0101</color>
+    <color name="darkGold">#917238</color>
+    <color name="fontYellow">#F4D330</color>
+</resources>

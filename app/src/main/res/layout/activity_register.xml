@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background_login"
+    tools:context=".RegisterActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:layout_gravity="center">
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="150dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/logoheader" />
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="100dp"
+                android:layout_marginLeft="100dp"
+                android:orientation="horizontal"
+                android:background="@drawable/shape_line">
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/colorDefaultDark"
+                android:fontFamily="@font/prompt_regular"
+                android:textStyle="bold"
+                android:layout_marginBottom="25dp"
+                android:gravity="center"
+                android:text="REGISTRASI MEMBER"/>
+
+            <EditText
+                android:id="@+id/re_full_name"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/shape_input_text"
+                android:hint="Nama Lengkap"
+                android:textSize="13sp"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+
+            <EditText
+                android:id="@+id/re_birth_date"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:background="@drawable/shape_input_text"
+                android:hint="Tanggal Lahir"
+                android:textSize="13sp"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+            <EditText
+                android:id="@+id/re_phone_number"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:hint="Nomor Handphone"
+                android:textSize="13sp"
+                android:inputType="phone"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+            <EditText
+                android:id="@+id/re_email"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:hint="Email"
+                android:textSize="13sp"
+                android:inputType="textEmailAddress"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+            <Spinner
+                android:id="@+id/re_dso"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:hint="DSO"
+                android:textSize="13sp"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+
+            <EditText
+                android:id="@+id/re_address"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:hint="Alamat"
+                android:inputType="text"
+                android:textSize="13sp"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+
+            <Spinner
+                android:id="@+id/re_province"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:hint="Provinsi"
+                android:textSize="13sp"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+
+            <Spinner
+                android:id="@+id/re_regencies"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:hint="Kab/Kota"
+                android:textSize="13sp"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+
+            <Spinner
+                android:id="@+id/re_districts"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:hint="Kecamatan"
+                android:textSize="13sp"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+
+            <Spinner
+                android:id="@+id/re_villages"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:hint="Kelurahan"
+                android:textSize="13sp"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+
+            <EditText
+                android:id="@+id/re_postal_code"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:inputType="number"
+                android:hint="Kode Pos"
+                android:textSize="13sp"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+
+            <Spinner
+                android:id="@+id/re_country"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:hint="Negara"
+                android:textSize="13sp"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+
+            <EditText
+                android:id="@+id/re_username"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:hint="Username"
+                android:textSize="13sp"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+            <EditText
+                android:id="@+id/re_password"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_weight="1"
+                android:background="@drawable/shape_input_text"
+                android:hint="Password"
+                android:textSize="13sp"
+                android:inputType="textPassword"
+                android:textColorHint="#CBD5DA"
+                android:textColor="@color/colorDefaultDark"/>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:weightSum="10">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/re_img_profile_photo"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="7"
+                        android:src="@drawable/img_profile_default" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1">
+
+                    </LinearLayout>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:textColor="@color/colorDefaultDark"
+                        android:gravity="center"
+                        android:text="Ambil Photo Selfie"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:weightSum="10">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="6">
+
+                    </LinearLayout>
+                    <ImageView
+                        android:id="@+id/img_change_profile_photo"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:src="@drawable/button_tambah_img"/>
+                </LinearLayout>
+            </FrameLayout>
+            <LinearLayout
+                android:id="@+id/tnc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/default_login_margin"
+                android:layout_marginBottom="@dimen/default_login_margin"
+                android:orientation="horizontal">
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="3dp"
+                    android:layout_marginLeft="@dimen/default_login_margin"
+                    android:layout_gravity="center_vertical"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/default_login_margin"
+                    android:layout_gravity="center_vertical"
+                    android:textColor="@color/colorDefaultDark"
+                    android:text="@string/saya_telah_membaca_dan_menyetujui_syarat_dan_ketentuan_yang_berlaku"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:orientation="horizontal"
+                android:weightSum="20"
+                android:background="@drawable/shape_line"
+                android:layout_marginBottom="@dimen/default_login_margin">
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/re_btn_register"
+                style="?android:textAppearanceSmall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10sp"
+                android:paddingBottom="10sp"
+                android:paddingLeft="10sp"
+                android:paddingRight="10sp"
+                android:layout_marginRight="@dimen/default_login_margin"
+                android:layout_marginLeft="@dimen/default_login_margin"
+                android:layout_gravity="center"
+                android:background="@drawable/shape_button_login"
+                android:text="REGISTRASI"
+                android:textColor="#fff"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tv_have_account"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="10sp"
+                android:gravity="center"
+                android:textColor="@color/colorDefaultDark"
+                android:text="SUDAH MEMILIKI AKUN? LOGIN"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

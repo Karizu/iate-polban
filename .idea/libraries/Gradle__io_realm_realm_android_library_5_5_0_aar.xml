@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.realm:realm-android-library:5.5.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75dda4b61c546f0a61e4ecf5d48a415a/jetified-realm-android-library-5.5.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75dda4b61c546f0a61e4ecf5d48a415a/jetified-realm-android-library-5.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75dda4b61c546f0a61e4ecf5d48a415a/jetified-realm-android-library-5.5.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library/5.5.0/f813695b06cdf32d47d8d3df3c914ca8c81bfa6a/realm-android-library-5.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-android-library/5.5.0/e50a6daa51368b85826563602589e097c671bf98/realm-android-library-5.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

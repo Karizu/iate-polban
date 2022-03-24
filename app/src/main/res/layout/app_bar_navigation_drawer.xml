@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:theme="@style/AppTheme"
+                app:titleTextColor="@color/colorDefault"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:weightSum="9">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3">
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="3"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="5dp"
+                    android:src="@drawable/logoheader" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:gravity="right"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/img_filter_toolbar"
+                        android:layout_width="30dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="@dimen/default_login_margin"
+                        android:layout_marginRight="@dimen/default_login_margin"
+                        android:layout_marginTop="@dimen/default_login_margin"
+                        android:src="@drawable/icon_filter"
+                        android:visibility="gone" />
+
+                    <ImageView
+                        android:id="@+id/img_qr_code_toolbar"
+                        android:layout_width="30dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="@dimen/default_login_margin"
+                        android:layout_marginRight="@dimen/default_login_margin"
+                        android:layout_marginTop="@dimen/default_login_margin"
+                        android:src="@drawable/qr_code"
+                        android:visibility="gone" />
+
+                    <ImageView
+                        android:id="@+id/img_setting_toolbar"
+                        android:layout_width="30dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="@dimen/default_login_margin"
+                        android:layout_marginRight="@dimen/default_login_margin"
+                        android:layout_marginTop="@dimen/default_login_margin"
+                        android:src="@drawable/icon_pengaturan_header"
+                        android:visibility="gone" />
+
+                    <ImageView
+                        android:id="@+id/img_share_toolbar"
+                        android:layout_width="30dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="@dimen/default_login_margin"
+                        android:layout_marginRight="@dimen/default_login_margin"
+                        android:layout_marginTop="@dimen/default_login_margin"
+                        android:src="@drawable/ic_share"
+                        android:visibility="gone" />
+
+                    <RelativeLayout
+                        android:id="@+id/img_notification_toolbar"
+                        android:layout_width="30dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="@dimen/default_login_margin"
+                        android:layout_marginRight="@dimen/default_login_margin"
+                        android:layout_marginTop="@dimen/default_login_margin">
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/notification" />
+
+                        <TextView
+                            android:id="@+id/counter_notif"
+                            android:layout_width="10dp"
+                            android:layout_height="10dp"
+                            android:scaleType="fitStart"
+                            android:layout_marginRight="0dp"
+                            android:background="#212121"
+                            android:gravity="center"
+                            android:minWidth="10dp"
+                            android:adjustViewBounds="true"
+                            android:minHeight="10dp"
+                            android:text="0"
+                            android:textColor="#ffffffff"
+                            android:textSize="8sp"
+                            android:layout_marginBottom="3dp"
+                            android:visibility="visible"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_alignParentTop="true"
+                            android:layout_alignParentEnd="true"
+                            />
+
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </FrameLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include layout="@layout/content_navigation_drawer" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+    android:layout_marginTop="8dp"
+    android:layout_marginRight="@dimen/activity_horizontal_margin"
+    android:layout_marginBottom="8dp"
+    android:background="#ffffff"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="@dimen/activity_horizontal_margin"
+    >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/tvEventTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="SUPER JOURNEY CHALLANGE"
+            />
+
+        <TextView
+            android:id="@+id/tvEventDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Waktu 17:00/00.00"
+            />
+
+        <TextView
+            android:id="@+id/tvEventTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Waktu 17:00/00.00"
+            />
+
+        <TextView
+            android:id="@+id/tvEventAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/article_margin_top_bottom"
+            android:text="Gedung Ardiwilga, Jakarta"
+            android:textColor="@color/colorPrimary" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivEventDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_icon"
+        android:foreground="?attr/selectableItemBackground"
+        android:src="@drawable/ic_baseline_chevron_right_24"
+        />
+</LinearLayout>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rezkyatinnov:kyandroid:1.0.0-rc10@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3d1c8636f982dff366f9175f0891d35/kyandroid-1.0.0-rc10/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3d1c8636f982dff366f9175f0891d35/kyandroid-1.0.0-rc10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3d1c8636f982dff366f9175f0891d35/kyandroid-1.0.0-rc10/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rezkyatinnov/kyandroid/1.0.0-rc10/eb405ee9aaeb677b9b7e292c0114d07a939f05a3/kyandroid-1.0.0-rc10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rezkyatinnov/kyandroid/1.0.0-rc10/60ab31b63772625b1e404c421f5741d67fcc7612/kyandroid-1.0.0-rc10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

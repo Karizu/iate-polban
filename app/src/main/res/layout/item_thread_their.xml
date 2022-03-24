@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/thread_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:layout_marginRight="100dp">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgDiscussionProfile"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="top"
+        app:civ_border_width="1dp"
+        android:src="@drawable/profile_discussions"
+        app:civ_border_color="#BDBDBD"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_weight="1"
+        android:background="@drawable/rounded_chat_their"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+
+
+
+        <TextView
+            android:id="@+id/tvUsername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Rahmad Darmawan"
+            android:textColor="#fff"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="4dp"/>
+
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:id="@+id/tvThreadComment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EVENT QONQUER THE CITY"
+            android:textColor="#fff"
+            android:textSize="14sp"/>
+        <TextView
+            android:layout_marginBottom="4dp"
+            android:id="@+id/tvThradTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="10 m"
+            android:textColor="#fff"
+            android:textSize="14sp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

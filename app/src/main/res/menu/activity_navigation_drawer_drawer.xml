@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/grp_home"
+        android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_home"/>
+    </group>
+    <group android:id="@+id/grp_forum_diskusi"
+        android:checkableBehavior="single">
+        <item android:id="@+id/nav_forum_diskusi"
+            android:title="Forum Diskusi"
+            android:icon="@drawable/ic_forum_diskusi"/>
+    </group>
+    <group android:id="@+id/grp_berita_pengumuman"
+        android:checkableBehavior="single">
+        <item android:id="@+id/nav_berita_pengumuman"
+            android:title="Berita / Pengumuman"
+            android:icon="@drawable/ic_berita"/>
+    </group>
+    <group android:id="@+id/grp_direktori_anggota"
+        android:checkableBehavior="single">
+        <item android:id="@+id/nav_direktori_anggota"
+            android:title="Direktori Anggota"
+            android:icon="@drawable/ic_direktori_anggota"/>
+    </group>
+    <group android:id="@+id/grp_artikel"
+        android:checkableBehavior="single">
+        <item android:id="@+id/nav_artikel"
+            android:title="Artikel"
+            android:icon="@drawable/ic_artikel"/>
+    </group>
+    <group android:id="@+id/grp_kalender_kegiatan"
+        android:checkableBehavior="single">
+        <item android:id="@+id/nav_kalender_kegiatan"
+            android:title="Kalender Kegiatan"
+            android:icon="@drawable/ic_kalender_kegiatan"/>
+    </group>
+    <group android:id="@+id/grp_pengaturan"
+        android:checkableBehavior="single">
+        <item android:id="@+id/nav_setting"
+            android:title="Pengaturan"
+            android:icon="@drawable/ic_pengaturan"/>
+    </group>
+
+</menu>

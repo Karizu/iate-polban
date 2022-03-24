@@ -1,0 +1,186 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/close_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/icon_close_item"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="15dp"
+                android:text="Syarat dan Ketentuan"
+                android:textAlignment="center"
+                android:textColor="#000"
+                android:textStyle="bold"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Berikut adalah syarat-syarat penggunaan ('Term of Use'), yang mungkin dapat direvisi oleh pihak SUPERFRIENDS dan/atau PT BOARDING LABS selaku pengelola Aplikasi SUPERFRIENDS, kapanpun tanpa pemberitahuan terlebih dahulu, berlaku untuk anda dalam melakukan akses dan pengguna aplikasi SUPERFRIENDS."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Bacalah semua syarat-syarat dan ketentuan ini dengan seksama. Dengan mengakses aplikasi SUPERFRIENDS ini dan salah satu halaman yang terdapat didalamnya, berarti anda setuju untuk terikat dengan syarat-syarat dan ketentuan di bawah ini. Jika Anda tidak menyetujui syarat-syarat dan ketentuan yang ditetapkan di bawah ini, mohon untuk tidak mengakses menggunakan aplikasi SUPERFRIENDS ini dan/atau salah satu halaman yang terdapat didalamnya"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Pemilik Hak Atas Konten"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Bahwa konten, layanan, dan aplikasi SUPERFRIENDS  (termasuk tetapi tidak terbatas kepada teks, suara, foto grafis, dan materi lain yang terkandung di dalamnya) dilindungi oleh hak cipta, hak merek, hak paten, dan/atau Hak Atas Kekayaan Intelektual lainnya, di mana setiap pelanggaran terhadap hal-hal tersebut di atas adalah suatu tindakan melawan hukum. Konten dalam situs ini bisa digunakan oleh Anda hanya untuk kebutuhan Anda sendiri, penggunaan non-komersil, namun tidak boleh disalah-artikan dan disalah-gunakan. Segala hak yang dijelaskan tidak secara langsung kepada Anda adalah hak dari SUPERFRIENDS"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Ketika Anda menambah foto dan/atau materi-materi lainnya, secara otomatis setuju bahwa aplikasi SUPERFRIENDS bisa mempertunjukan foto dan/atau materi-materi lainnya yang Anda tambahkan tersebut, dimana memungkinkan Anda bisa mendapatkan beberapa respon"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Pengunjung Yang Terdaftar"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Beberapa layanan pada situs ini, hanya tersedia untuk pengunjung yang telah mendaftar dan mengharuskan pengunjung untuk mendaftar dengan user ID untuk menggunakannya. Sebagai pengunjung yang terdaftar, Anda diwajibkan untuk mengikuti segala peraturan penggunaan layanan tersebut."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Penggunaan Fasilitas Korespondensi"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Situs ini berisi news, artikel, dan fasilitas lainnya termasuk fasilitas korespondensi, Anda setuju untuk menggunakan fasilitas-fasilitas tersebut hanya untuk mengirim dan menerima pesan materi yang sesuai dan berkaitan dengan fasilitas yang bersangkutan. Anda setuju bahwa ketika berinteraksi atau berkorespondensi Anda tidak boleh melakukan hal-hal berikut ini :
+• Mencemarkan nama baik, mengganggu, bertindak sewenang-wenang, mengusik, mengancam, atau melanggar hak-hak legal (seperti hak privasi dan publisitas) member yang lain.
+• Mendistribusikan atau menyebarkan fitnah, menyalahi SARA (suku, agama, ras, adat), cabul, tidak senonoh, atau materi dan informasi yang tidak sah.
+• Upload file yang berisi software atau materi lain yang dilindungi oleh hak properti intelektual (atau hak privasi publisitas) kecuali Anda memiliki atau mempunyai kontrol dari materi atau software tersebut, atau telah memiliki cukup ijin untuk menerbitkannya. Kami berhak untuk menunda penayangan materi file yang di-upload pada situs Kami terkait dengan pelaksanaan verifikasi data untuk membuktikan bahwa Anda adalah pihak yang memiliki hak atas materi sebagaimana dimaksud. Kami berhak pula untuk menurunkan materi yang telah Anda upload pada aplikasi SUPERFRIENDS apabila ternyata Anda di kemudian hari terbukti bukan sebagai pemilik hak properti intelektual yang sah atas materi tersebut.
+•Upload file yang berisi virus, file rusak, atau software dan program serupa yang mengakibatkan kerusakan operasi dari komputer member lain.
+•Mem-forward survey, kontes, atau surat berantai.
+•Download file yang di-posting oleh member lain dari forum yang Anda tahu tidak bisa didistribusikan secara legal dengan cara tersebut.
+Pihak SUPERFRIENDS berhak untuk alasan apapun menghapus, menyembunyikan, mengubah konten dari forum tersebut tanpa peringatan sebelumnya kepada member.
+"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Penolakan Pertanggungjawaban"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Anda dengan jelas menyetujui bahwa penggunaan aplikasi SUPERFRIENDS ini merupakan resiko anda sendiri."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Semua konten, informasi, product, feature dan layanan yang diterbitkan pada aplikasi SUPERFRIENDS ini kemungkinan mencakup ketidakakuratan atau kesalahan tipografikal. Perubahan akan ditambahkan secara periodik pada konten yang ada pada aplikasi ini. Aplikasi SUPERFRIENDS mungkin akan mengadakan perbaikan dan / atau perubahan sewaktu-waktu. Aplikasi SUPERFRIENDS ini mungkin untuk sementara waktu tidak bisa diakses sewaktu-waktu untuk keperluan proses maintenance, interupsi telekomunikasi, atau gangguan lainnya. Aplikasi SUPERFRIENDS (beserta pemilik, supplier, konsultan, pengiklan, affiliasi, rekanan, pekerja, atau entitas terkait, secara bersama disebut entitas terkait setelah ini) tidak akan dapat dikenakan tuntutan oleh user atau member atau pihak ketiga manapun untuk mengubah atau menghentikan beberapa atau semua konten, informasi, product, feature dan layanan yang diterbitkan pada aplikasi ini, kecuali dalam hal konten, informasi, product, feature dan layanan sebagaimana dimaksud dapat dibuktikan sebagai hak atas kekayaan intelektual milik dari user atau member atau pihak ketiga tersebut."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Semua konten, informasi, product, feature dan layanan disediakan “apa adanya” tanpa adanya jaminan apapun. Aplikasi SUPERFRIENDS dan / atau entitas terkaitnya dengan ini menolak segala macam bentuk jaminan dan syarat-syarat terhadap konten, informasi, product, feature dan layanan termasuk dan kondisi dari barang / jasa yang dapat diperjualbelikan."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Kami tidak bertanggung jawab atas setiap masalah atau gangguan teknis dari jaringan atau jalur telepon, sistem online komputer, server, penyedia jasa internet, peralatan komputer, piranti lunak, atau apapun termasuk kerusakan pada komputer Anda atau komputer siapapun sebagai akibat dari penggunaan situs ini."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Sebagai pengunjung Aplikasi SUPERFRIENDS, Anda mengetahui dan setuju bahwa tiap kepercayaan terhadap atau penggunaan informasi dan atau konten yang tersedia dalam situs ini seluruhnya adalah resiko Anda sendiri. Dalam keadaan apapun, pihak SUPERFRIENDS tidak bertanggung jawab atas kerugian secara langsung, tak langsung, atau ganti rugi sepenuhya yang muncul sebagai akibat dari penggunaan atau performa aplikasi ini."
+                android:textAlignment="textStart"
+                android:textColor="#000"
+                android:textSize="13sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

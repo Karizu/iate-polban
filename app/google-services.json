@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592179714416",
+    "firebase_url": "https://blcom-iate-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blcom-iate",
+    "storage_bucket": "blcom-iate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592179714416:android:716980d8cfd6147a97d7b5",
+        "android_client_info": {
+          "package_name": "id.bl.blcom.iate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592179714416-qme2mtvaniqcb9v48f0tf6csvnoboo1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.bl.blcom.iate",
+            "certificate_hash": "9472b5ff6338fbfc4f363b9b15a6ec6b6d3f6481"
+          }
+        },
+        {
+          "client_id": "592179714416-ncu18rt96fhcrh62p04v1me14ouk5qk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWaRKmDAWs7J4OaWCV3QCcVCeso_P97qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592179714416-ncu18rt96fhcrh62p04v1me14ouk5qk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

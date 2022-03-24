@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IATE_Center.iml" filepath="$PROJECT_DIR$/.idea/modules/IATE_Center.iml" group="IATE_Center" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="IATE Center/app" />
+    </modules>
+  </component>
+</project>
